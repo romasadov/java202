@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java2023" target="20" />
+      <module name="java2023" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
